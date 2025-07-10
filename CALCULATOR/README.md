@@ -30,18 +30,18 @@ This is a simple, elegant **desktop calculator app** built using **Python** and 
   ```bash
   pip install customtkinter
   
-#📂 File Structure<br>
+## 📂 File Structure<br>
 CALCULATOR<br>
 calc.py     # Main application file<br>
 README.md         # This documentation<br>
 <br>
-#▶️ How to Run<br>
+## ▶️ How to Run<br>
 Clone the repo or copy the script.<br>
 Ensure customtkinter is installed.<br>
 Run the Python file:
 python calc.py
 <br>
-#🧠 Code Overview<br>
+## 🧠 Code Overview<br>
 ExportedApp class inherits from ctk.CTk (CustomTkinter window).<br>
 Entry widget acts as the calculator display.<br>
 Buttons created dynamically using a layout configuration list.<br>
