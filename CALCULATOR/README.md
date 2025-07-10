@@ -28,50 +28,32 @@ This is a simple, elegant **desktop calculator app** built using **Python** and 
   Install via pip:
 
   ```bash
-  pip install customtkinter```
+  pip install customtkinter
   
-📂 File Structure
-calculator
-calc.py     # Main application file
-README.md         # This documentation
-
-▶️ How to Run
-Clone the repo or copy the script.
-
-Ensure customtkinter is installed.
-
+#📂 File Structure<br>
+CALCULATOR<br>
+calc.py     # Main application file<br>
+README.md         # This documentation<br>
+<br>
+#▶️ How to Run<br>
+Clone the repo or copy the script.<br>
+Ensure customtkinter is installed.<br>
 Run the Python file:
 python calc.py
-
-🧠 Code Overview
-ExportedApp class inherits from ctk.CTk (CustomTkinter window).
-
-Entry widget acts as the calculator display.
-
-Buttons created dynamically using a layout configuration list.
-
-Functions:
-
-_on_button_click: Appends character to display.
-
-_evaluate: Computes result using eval().
-
-_clear: Clears display.
-
-_toggle_sign: Toggles sign of current input.
-
-⚠️ Note
-This calculator uses eval() to evaluate expressions, which is not secure for untrusted inputs. It is safe here as a local app.
-
-📌 To Do (Optional)
- Add keyboard bindings
-
- Improve error handling with math-safe parsing
-
- Add scientific calculator features (sin, cos, log, etc.)
-
- Add themes or light mode toggle
-
-🧑‍💻 Author
-Made with ❤️ by [SOUMYA SAKSHI]
-Let me know if you want to save this as a `.md` file or convert it into a GitHub-ready project!
+<br>
+#🧠 Code Overview<br>
+ExportedApp class inherits from ctk.CTk (CustomTkinter window).<br>
+Entry widget acts as the calculator display.<br>
+Buttons created dynamically using a layout configuration list.<br>
+<br>
+Functions:<br>
+_on_button_click: Appends character to display.<br>
+_evaluate: Computes result using eval().<br>
+_clear: Clears display.<br>
+_toggle_sign: Toggles sign of current input.<br>
+<br>
+#⚠️ Note<br>
+This calculator uses eval() to evaluate expressions, which is not secure for untrusted inputs. It is safe here as a local app.<br>
+<br>
+🧑‍💻 Author<br>
+Made with ❤️ by [SOUMYA SAKSHI]<br>
