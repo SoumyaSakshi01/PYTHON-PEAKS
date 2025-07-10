@@ -52,8 +52,8 @@ _evaluate: Computes result using eval().<br>
 _clear: Clears display.<br>
 _toggle_sign: Toggles sign of current input.<br>
 <br>
-#⚠️ Note<br>
+## ⚠️ Note<br>
 This calculator uses eval() to evaluate expressions, which is not secure for untrusted inputs. It is safe here as a local app.<br>
 <br>
-🧑‍💻 Author<br>
+## 🧑‍💻 Author<br>
 Made with ❤️ by [SOUMYA SAKSHI]<br>
