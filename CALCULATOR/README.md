@@ -56,4 +56,4 @@ _toggle_sign: Toggles sign of current input.<br>
 This calculator uses eval() to evaluate expressions, which is not secure for untrusted inputs. It is safe here as a local app.<br>
 <br>
 ## 🧑‍💻 Author<br>
-Made with ❤️ by [SOUMYA SAKSHI]<br>
+Made with ❤️ by # SOUMYA SAKSHI<br>
